@@ -1,4 +1,4 @@
-# US Housing Market Analysis (2000–2024)
+# US Housing Market Analysis (2005–2024)
 
 This Power BI project explores how key economic indicators have influenced U.S. home prices over the last 20 years using the S&P Case-Shiller Home Price Index.
 
@@ -32,7 +32,7 @@ All data is publicly available from [FRED Economic Data (Federal Reserve)](https
 ## 🔍 Findings & Insights
 
 ### 1. 📈 Home Prices Have Grown Steadily, with Sharp Dips During Recessions
-- The S&P Case-Shiller Home Price Index shows a consistent long-term upward trend from 2000 to 2024.
+- The S&P Case-Shiller Home Price Index shows a consistent long-term upward trend from 2005 to 2024.
 - Two major downturns are clearly visible:
   - **2008–2009** (Great Recession)
   - **2020** (COVID Recession)
